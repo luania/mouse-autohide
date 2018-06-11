@@ -1,15 +1,13 @@
 {
   "name": "mouse-autohide",
   "main": "./lib/mouse-autohide",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "auto hide mouse when not use",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/luania/mouse-autohide",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
