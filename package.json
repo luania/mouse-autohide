@@ -1,8 +1,8 @@
 {
   "name": "mouse-autohide",
   "main": "./lib/mouse-autohide",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "auto hide mouse when not use",
   "keywords": [
   ],
   "repository": "https://github.com/atom/mouse-autohide",

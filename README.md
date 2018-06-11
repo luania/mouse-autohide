@@ -1,5 +1,5 @@
 # mouse-autohide package
-auto hide mouse when not use
+an atom package, auto hide mouse when not use
 
 ## Install
 With the atom package manager:
